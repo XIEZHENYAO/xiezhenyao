@@ -1,4 +1,1 @@
-this is a git test
-1
-2
-3
+this is readme.txt
